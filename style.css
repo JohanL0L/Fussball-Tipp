@@ -1,0 +1,65 @@
+
+body 
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#top 
+{
+    text-align: center;
+}
+#logo 
+{
+    color: white;
+    background-color: rgb(236, 103, 103);
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bold;
+    padding: 4px;
+    margin-top: 16px; 
+}
+
+.logo
+{
+    font-size: 32px;
+    font-weight: bold;
+    margin: 30px;
+        
+}
+
+#Status
+{
+    font-size: 16px;
+    font-weight: bold;
+    margin: 30px;
+        
+}
+
+#navigation a
+{
+    color: rgb(236, 103, 103);
+    padding: 8px;
+}
+
+#navigation a:hover 
+{
+    color: rgb(170, 0, 0);
+    font-size: 20px;
+}
+
+#image img 
+{
+    width: 100%;
+    margin: auto;
+}
+
+#main 
+{
+    max-width: 800px;
+    margin: auto;
+}
+
+
+
+
+
